@@ -1,5 +1,7 @@
 ✨ [My Portfolio Site](https://rokumura7.github.io/) ✨
 
+![GitHubPages](https://github.com/rokumura7/rokumura7.github.io/workflows/GitHubPages/badge.svg)
+
 ---
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/rokumura7/posts.svg)](http://qiita.com/rokumura7)
