@@ -11,4 +11,4 @@
 [![rokumura7's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokumura7&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokumura7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rokumura7&theme=darkhub)](https://github.com/rokumura7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rokumura7&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
