@@ -1,4 +1,4 @@
-<img alt="welcome" src="./welcome.svg" width="100%" />
+<img alt="welcome" src="./header.svg" width="100%" />
 
 [![profile views](https://komarev.com/ghpvc/?username=rokumura7)](https://github.com/antonkomarev/github-profile-views-counter)
 ![github](https://img.shields.io/github/followers/rokumura7?style=social&logo=github&style=left&color=blue)
