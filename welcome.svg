@@ -1,0 +1,42 @@
+<svg width="100%" height="150" viewBow="0,0,650,350" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      margin: 0 auto;
+      stroke: white;
+      fill: white;
+      font-size: 100px;
+      stroke-dasharray: 10% 30%;
+      stroke-width: 0.5px;
+      -webkit-animation: stroke-anim 1s linear;
+      animation: stroke-anim 5s linear;
+    }
+    @-webkit-keyframes stroke-anim {
+      0% {
+        stroke-dashoffset: 100%;
+        fill:transparent;
+      }
+      50% {
+        fill:transparent;
+      }
+      100% {
+        stroke-dashoffset: 0%;
+        fill:white;
+      }
+    }
+    
+    @keyframes stroke-anim {
+      0% {
+        stroke-dashoffset: 150%;
+        fill:transparent;
+      }
+      50% {
+        fill:transparent;
+      }
+      100% {
+        stroke-dashoffset: 0%;
+        fill:white;
+      }
+    }
+  </style>
+  <text x="0" y="100">Welcome</text>
+</svg>
