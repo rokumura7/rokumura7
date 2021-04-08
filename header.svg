@@ -1,0 +1,42 @@
+<svg width="100%" height="75" viewBow="0,0,650,350" xmlns="http://www.w3.org/2000/svg" style="background-color: black;">
+  <style>
+    text {
+      margin: 0 auto;
+      stroke: #ACA;
+      fill: #ACA;
+      font-size: 50px;
+      stroke-dasharray: 10% 20%;
+      stroke-width: 0.5px;
+      -webkit-animation: stroke-anim 1s linear;
+      animation: stroke-anim 5s linear;
+    }
+    @-webkit-keyframes stroke-anim {
+      0% {
+        stroke-dashoffset: 100%;
+        fill:transparent;
+      }
+      50% {
+        fill:transparent;
+      }
+      100% {
+        stroke-dashoffset: 0%;
+        fill:#ACA;
+      }
+    }
+    
+    @keyframes stroke-anim {
+      0% {
+        stroke-dashoffset: 120%;
+        fill:transparent;
+      }
+      50% {
+        fill:transparent;
+      }
+      100% {
+        stroke-dashoffset: 0%;
+        fill:#ACA;
+      }
+    }
+  </style>
+  <text x="50%" y="50">Happy Hacking</text>
+</svg>
