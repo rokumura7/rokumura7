@@ -2,7 +2,6 @@
 
 [![profile views](https://komarev.com/ghpvc/?username=rokumura7)](https://github.com/antonkomarev/github-profile-views-counter)
 ![github](https://img.shields.io/github/followers/rokumura7?style=social&logo=github&style=left&color=blue)
-![twitter](https://img.shields.io/twitter/follow/haxpig1?label=twitter&logo=twitter&style=left&color=blue)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/rokumura7/posts.svg)](http://qiita.com/rokumura7)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/rokumura7/contributions.svg)](http://qiita.com/rokumura7)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/rokumura7/followers.svg)](http://qiita.com/rokumura7)
