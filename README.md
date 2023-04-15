@@ -7,7 +7,6 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/rokumura7/followers.svg)](http://qiita.com/rokumura7)
 
 [![github-chart](https://github-readme-stats.vercel.app/api/pin/?username=rokumura7&repo=github-chart&theme=radical&show_owner=true)](https://github.com/rokumura7/github-chart)
-[![notify-contributions](https://github-readme-stats.vercel.app/api/pin/?username=rokumura7&repo=notify-contributions&theme=radical&show_owner=true)](https://github.com/rokumura7/notify-contributions)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="rokumura7's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rokumura7&count_private=true&show_icons=true&theme=radical" height="165px">
